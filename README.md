@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Kabir Kaka</h1>
-<h3 align="center">React Js | Frontend Developer </h3>
+<h3 align="center">Software Engineer | Frontend Developer | React/Next Js </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1329713/screenshots/15708827/react-developer-dribbble_4x.jpg">
 
 I'm a skilled Front-End Developer specializing in React.js, with a passion for crafting intuitive and visually appealing user interfaces. With a solid foundation in web development, I thrive on turning design concepts into responsive, interactive web applications that enhance the user experience. Currently pursuing a Bachelor's degree in Computer Science, I am eager to bring my expertise in React.js to dynamic projects and contribute to the world of web development.
