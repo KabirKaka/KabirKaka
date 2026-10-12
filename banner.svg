@@ -42,12 +42,12 @@
   <!-- code -->
   <g class="mono" font-size="15">
     <text x="80" y="88"><tspan fill="#ff7b72">const</tspan><tspan fill="#d2a8ff"> developer</tspan><tspan fill="#c9d1d9"> = {</tspan></text>
-    <text x="80" y="116"><tspan fill="#79c0ff">  name</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"Muhammad Kabir Kaka"</tspan><tspan fill="#c9d1d9">,</tspan></text>
-    <text x="80" y="144"><tspan fill="#79c0ff">  role</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"Frontend Engineer"</tspan><tspan fill="#c9d1d9">,</tspan></text>
-    <text x="80" y="172"><tspan fill="#79c0ff">  stack</tspan><tspan fill="#c9d1d9">: [</tspan><tspan fill="#a5d6ff">"React"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"Next.js"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"TypeScript"</tspan><tspan fill="#c9d1d9">],</tspan></text>
-    <text x="80" y="200"><tspan fill="#79c0ff">  shipped</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#79c0ff">30</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#8b949e">// production apps, 3+ yrs</tspan></text>
-    <text x="80" y="228"><tspan fill="#79c0ff">  location</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"Karachi, PK"</tspan><tspan fill="#c9d1d9">,</tspan></text>
-    <text x="80" y="256"><tspan fill="#79c0ff">  openTo</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"remote · freelance"</tspan><tspan fill="#c9d1d9">,</tspan></text>
+    <text x="80" y="116"><tspan fill="#79c0ff" dx="18">name</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"Muhammad Kabir Kaka"</tspan><tspan fill="#c9d1d9">,</tspan></text>
+    <text x="80" y="144"><tspan fill="#79c0ff" dx="18">role</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"Frontend Engineer"</tspan><tspan fill="#c9d1d9">,</tspan></text>
+    <text x="80" y="172"><tspan fill="#79c0ff" dx="18">stack</tspan><tspan fill="#c9d1d9">: [</tspan><tspan fill="#a5d6ff">"React"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"Next.js"</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#a5d6ff">"TypeScript"</tspan><tspan fill="#c9d1d9">],</tspan></text>
+    <text x="80" y="200"><tspan fill="#79c0ff" dx="18">shipped</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#79c0ff">30</tspan><tspan fill="#c9d1d9">, </tspan><tspan fill="#8b949e">// production apps, 3+ yrs</tspan></text>
+    <text x="80" y="228"><tspan fill="#79c0ff" dx="18">location</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"Karachi, PK"</tspan><tspan fill="#c9d1d9">,</tspan></text>
+    <text x="80" y="256"><tspan fill="#79c0ff" dx="18">openTo</tspan><tspan fill="#c9d1d9">: </tspan><tspan fill="#a5d6ff">"remote · freelance"</tspan><tspan fill="#c9d1d9">,</tspan></text>
     <text x="80" y="284"><tspan fill="#c9d1d9">};</tspan></text>
   </g>
   <rect class="cursor" x="102" y="270" width="9" height="18" fill="#61dafb"/>
